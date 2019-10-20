@@ -1,0 +1,19 @@
+Dragi svi, 
+
+Kao što sam napisao u mejlu.
+
+Nažalost brojne obaveze, pa neodlučnost da li raditi ili ne,  pa neodlučnost šta odabrati za projekat,
+pa posle odabranih par projekat sam shvatio da ne mogu nažalost da ih iznesem do kraja...
+Ali što bi se reklo to su sve porodjane muke...
+U trenutku kada sam rešio da odustanem, odlučio sam da ne odustajem vec da odradim mozda 
+ne ono što se očekuje od mene već ono što odogovara mom nivou znanja i ono što mogu sam da iznesem do kraja...
+Dakle za moj samostalni projekat imaćete jednu TO DO listu a u njoj od svega po malo .... HTML, CSS, PHP & MySql...
+
+\xampp\mysql\data - na ovoj lokaciji treba kopirati MySQL bazu.
+\xampp\htdocs\TODO - na ovoj lokaciji treba kopirati fajlove index.php + style.php
+
+koristio sam xampp
+
+Posle podasavanja TODO lista se pokreće sa linka : localhost/todo/index.php
+
+Naravno pre toga startovati servere.
